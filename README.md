@@ -33,9 +33,9 @@ sam_vit_h.pth: The SAM model's weights. You can download the model from the offi
 F.How to Run the Project:
 1. Clone the repository or download the project files.
 2. Install the required dependencies using the requirements.txt
-pip install -r requirements.txt
+(pip install -r requirements.txt)
 3. Run the finalapp.py script to start the segmentation
-python finalapp.py
+(python finalapp.py)
 4. A file dialog will appear for you to select an image file (.jpg, .jpeg, .png, .bmp, or .gif).
 5. Hover over objects in the image to highlight them. Click to select a mask.
 6. Enter the x and y shift values when prompted (e.g., x = 20, y = -10), and the selected object will be shifted.
