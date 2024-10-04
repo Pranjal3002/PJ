@@ -43,13 +43,16 @@ F.How to Run the Project:
 
 Example Workflow:
 Original Image:
-![wall hanging](https://github.com/user-attachments/assets/f3ebc3be-2893-4612-a646-5a91f9b4cd3b)
+![candy-multiple-objects-signs-symbols-illustration-with-purple-background-vector](https://github.com/user-attachments/assets/afa38e64-ff14-4a5b-b20a-b3993f38f7cb)
+
 
 Segmented Image:
-![output_segmented](https://github.com/user-attachments/assets/62cb3eee-1518-46ba-8b3c-17f9700bd6b5)
+![MO](https://github.com/user-attachments/assets/d97e2672-9cdd-4f88-94f6-f710da18e52f)
+
 
 Shifted Image:
-![output_shifted](https://github.com/user-attachments/assets/00e27765-4b15-44ac-a8ee-0bb26117a4b8)
+![Candy](https://github.com/user-attachments/assets/0689000e-3583-452d-b1d2-fdcb72c7acb5)
+
 
 
 
